@@ -1,0 +1,9 @@
+*~
+
+.gradle/
+gradle-app.setting
+
+build/
+out/
+bin/
+*.class
